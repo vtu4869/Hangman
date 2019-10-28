@@ -6,4 +6,4 @@ different dialogues as the game goes on
 The user is given 10 tries to guess the word, and if the user does not get the word within 
 10 tries, we reveal what the answer was
 
-Next time: will implement different difficulty to challenge the users but will provide more turns the harder the word is
+Update: implemented the difficulties of hangmen, the game is completed for now.
