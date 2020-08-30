@@ -1,3 +1,4 @@
+#author: Vincent Tu
 #modules to use for the game
 import time
 import random
