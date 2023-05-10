@@ -47,7 +47,7 @@ elif(difficulty == 2):
     tries = 9
 elif(difficulty == 3):
     word = HardWords[random]
-    tries = 13s
+    tries = 13
 
 #initalize the user guess
 guesses = ''
@@ -60,9 +60,9 @@ while tries > 0:
     numberofDashes = 0
     for char in word:
         if char in guesses:
-            print (char + ' ', end = ''),
+            print (char + ' ', end = '')
         else:
-            print ("_ ", end = ''),
+            print ("_ ", end = '')
             numberofDashes += 1
 
     print('\n')
